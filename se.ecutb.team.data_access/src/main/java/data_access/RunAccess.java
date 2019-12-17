@@ -34,31 +34,5 @@ public class RunAccess {
     public static void main(String[] args) {
         RunAccess run = new RunAccess();
         run.School();
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-
-        System.out.println("Hejsan");
-
-        System.out.println("Hejsan");
-
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-
-        System.out.println("Hejsan");
-
-        System.out.println("Hejsan");
-
-        System.out.println("Hejsan");
-        System.out.println("Hejsan");
-
-
-
-
-
-
     }
 }
